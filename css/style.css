@@ -193,7 +193,7 @@ h6,
   align-items: center;
   background: linear-gradient(
     to right,
-    rgb(2, 62, 5) 0%,
+    rgba(2, 36, 91, 0) 100%,
     rgba(2, 36, 91, 0) 100%
   );
   z-index: 1;
