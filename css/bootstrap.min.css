@@ -85,7 +85,7 @@ h6,
   font-family: "Rubik", sans-serif;
   font-weight: 700;
   line-height: 1.2;
-  color: #eccec0;
+  color: #f0f0f0;
 }
 h1,
 .h1 {
@@ -6807,7 +6807,7 @@ fieldset:disabled .btn {
   color: #02245b !important;
 }
 .text-white {
-  color: #fff !important;
+  color: #ffff !important;
 }
 .text-body {
   color: #5f656f !important;
