@@ -129,7 +129,7 @@ h4,
 }
 h5,
 .h5 {
-  font-size: 1.25rem;
+  font-size: 16px;
 }
 h6,
 .h6 {
@@ -412,7 +412,7 @@ progress {
   font-weight: 300;
 }
 .display-1 {
-  font-size: calc(1.625rem + 4.5vw);
+  font-size: 47px;
   font-weight: 700;
   line-height: 1.2;
 }
