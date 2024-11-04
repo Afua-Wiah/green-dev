@@ -412,8 +412,8 @@ progress {
   font-weight: 300;
 }
 .display-1 {
-  font-size: 47px;
-  font-weight: 700;
+  font-size: 35px;
+  font-weight: 300;
   line-height: 1.2;
 }
 @media (min-width: 1200px) {
