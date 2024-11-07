@@ -704,3 +704,28 @@ h6,
   color: #b0b9ae;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
+.container-lg {
+  text-align: center;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.portfolio-desc {
+  padding: 1 rem;
+  position: relative;
+  z-index: 6;
+}
+@media (min-width: 550pxx) {
+  .portfolio-desc {
+    display: inline-block;
+    border: none;
+  }
+}
+.center {
+  text-align: center !important;
+}
+
+#content {
+  position: relative;
+}
