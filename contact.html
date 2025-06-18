@@ -261,7 +261,7 @@
             </div>
           </div>
           <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <form name="contact" method="post" data-netlify="true">
+                    <form name="contact" method="post" data-netlify="true" data-netlify-recaptcha="true">
                         <div class="row g-3">
                             <div class="col-md-6">
                                 <div class="form-floating">
@@ -281,6 +281,7 @@
                                         style="height: 150px"></textarea>
                                     <label for="message">Message</label>
                                 </div>
+                                <div data-netlify-recaptcha="true"></div>
                             </div>
                             <div class="col-12">
                                 <button class="btn btn-primary py-3 px-5" type="submit">Send Message</button>
